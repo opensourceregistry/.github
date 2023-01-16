@@ -1,4 +1,4 @@
-# Welcome to OpenSource Registry
+# Welcome to the OpenSource Registry
 
 ## Support the Open-Source Community
 
