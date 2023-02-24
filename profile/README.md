@@ -10,7 +10,7 @@ We provide a platform for publishers to publish their packages and for commercia
 
 On the other hand, hobbyists, students, and open-source developers can use the service freely.
 
-A percentage of the revenue generated from access is returned to the creators of the packages based on the number of downloads they've had. This allows creators to continue to invest time and effort in maintaining and updating their packages, ensuring that the open-source community can continue to benefit from their work.
+The funds generated from registry access are returned to the creators of the packages based on the number of downloads they've had. This allows creators to continue to invest time and effort in maintaining and updating their packages, ensuring that the open-source community can continue to benefit from their work.
 
 ## Join us
 
